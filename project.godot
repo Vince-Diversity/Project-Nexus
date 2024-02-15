@@ -16,3 +16,8 @@ run/main_scene="res://scenes/loader/loader.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://assets/icons/app_icon.svg"
 config/windows_native_icon="res://assets/icons/app_icon.ico"
+
+[rendering]
+
+textures/canvas_textures/default_texture_filter=0
+textures/lossless_compression/force_png=true
